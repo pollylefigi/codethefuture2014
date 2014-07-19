@@ -21,7 +21,7 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    wearApp project(':wear')
-    compile 'com.google.android.gms:play-services-wearable:+'
-    compile files('libs/ThinkGear.jar')
+    //wearApp project(':wear')
+   // compile 'com.google.android.gms:play-services-wearable:+'
+   // compile files('libs/ThinkGear.jar')
 }
